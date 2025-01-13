@@ -1,0 +1,54 @@
+D:\Projek VB\New folder\TrackingObat\TrackingObat\bin\x86\Debug\TrackingObat.exe.config
+D:\Projek VB\New folder\TrackingObat\TrackingObat\bin\x86\Debug\TrackingObat.exe
+D:\Projek VB\New folder\TrackingObat\TrackingObat\bin\x86\Debug\TrackingObat.pdb
+D:\Projek VB\New folder\TrackingObat\TrackingObat\obj\x86\Debug\TrackingObat.csprojResolveAssemblyReference.cache
+D:\Projek VB\New folder\TrackingObat\TrackingObat\obj\x86\Debug\TrackingObat.Properties.Resources.resources
+D:\Projek VB\New folder\TrackingObat\TrackingObat\obj\x86\Debug\TrackingObat.csproj.GenerateResource.Cache
+D:\Projek VB\New folder\TrackingObat\TrackingObat\obj\x86\Debug\TrackingObat.exe
+D:\Projek VB\New folder\TrackingObat\TrackingObat\obj\x86\Debug\TrackingObat.pdb
+D:\Projek VB\New folder\TrackingObat\TrackingObat\bin\x86\Debug\EntityFramework.dll
+D:\Projek VB\New folder\TrackingObat\TrackingObat\bin\x86\Debug\EntityFramework.SqlServer.dll
+D:\Projek VB\New folder\TrackingObat\TrackingObat\bin\x86\Debug\System.Data.SQLite.dll
+D:\Projek VB\New folder\TrackingObat\TrackingObat\bin\x86\Debug\System.Data.SQLite.EF6.dll
+D:\Projek VB\New folder\TrackingObat\TrackingObat\bin\x86\Debug\System.Data.SQLite.Linq.dll
+D:\Projek VB\New folder\TrackingObat\TrackingObat\bin\x86\Debug\EntityFramework.xml
+D:\Projek VB\New folder\TrackingObat\TrackingObat\bin\x86\Debug\EntityFramework.SqlServer.xml
+D:\Projek VB\New folder\TrackingObat\TrackingObat\bin\x86\Debug\System.Data.SQLite.xml
+D:\Projek VB\New folder\TrackingObat\TrackingObat\obj\x86\Debug\TrackingObat.FormLogin.resources
+D:\Projek VB\New folder\TrackingObat\TrackingObat\obj\x86\Debug\TrackingObat.FormMenuUtama.resources
+D:\Projek VB\New folder\TrackingObat\TrackingObat\obj\x86\Debug\TrackingObat.FormUser.resources
+D:\Projek VB\New folder\TrackingObat\TrackingObat\obj\x86\Debug\TrackingObat.FormGolonganObat.resources
+D:\Projek VB\New folder\TrackingObat\TrackingObat\obj\x86\Debug\TrackingObat.FormBentukSediaan.resources
+D:\Projek VB\New folder\TrackingObat\TrackingObat\obj\x86\Debug\TrackingObat.FormJenisObat.resources
+D:\Projek VB\New folder\TrackingObat\TrackingObat\obj\x86\Debug\TrackingObat.FormInputObat.resources
+D:\Projek VB\New folder\TrackingObat\TrackingObat\obj\x86\Debug\TrackingObat.FormCekStok.resources
+D:\Projek VB\New folder\TrackingObat\TrackingObat\obj\x86\Debug\TrackingObat.csproj.ResolveComReference.cache
+D:\Projek VB\New folder\TrackingObat\TrackingObat\obj\x86\Debug\TrackingObat.FormEditObat.resources
+C:\Users\castl\Downloads\Documents\KAMPUS\SEM 4\UAS\PemroLanjut\TrackingObat\TrackingObat\bin\x86\Debug\TrackingObat.exe.config
+C:\Users\castl\Downloads\Documents\KAMPUS\SEM 4\UAS\PemroLanjut\TrackingObat\TrackingObat\bin\x86\Debug\TrackingObat.exe
+C:\Users\castl\Downloads\Documents\KAMPUS\SEM 4\UAS\PemroLanjut\TrackingObat\TrackingObat\bin\x86\Debug\TrackingObat.pdb
+C:\Users\castl\Downloads\Documents\KAMPUS\SEM 4\UAS\PemroLanjut\TrackingObat\TrackingObat\bin\x86\Debug\EntityFramework.dll
+C:\Users\castl\Downloads\Documents\KAMPUS\SEM 4\UAS\PemroLanjut\TrackingObat\TrackingObat\bin\x86\Debug\EntityFramework.SqlServer.dll
+C:\Users\castl\Downloads\Documents\KAMPUS\SEM 4\UAS\PemroLanjut\TrackingObat\TrackingObat\bin\x86\Debug\System.Data.SQLite.dll
+C:\Users\castl\Downloads\Documents\KAMPUS\SEM 4\UAS\PemroLanjut\TrackingObat\TrackingObat\bin\x86\Debug\System.Data.SQLite.EF6.dll
+C:\Users\castl\Downloads\Documents\KAMPUS\SEM 4\UAS\PemroLanjut\TrackingObat\TrackingObat\bin\x86\Debug\System.Data.SQLite.Linq.dll
+C:\Users\castl\Downloads\Documents\KAMPUS\SEM 4\UAS\PemroLanjut\TrackingObat\TrackingObat\bin\x86\Debug\EntityFramework.xml
+C:\Users\castl\Downloads\Documents\KAMPUS\SEM 4\UAS\PemroLanjut\TrackingObat\TrackingObat\bin\x86\Debug\EntityFramework.SqlServer.xml
+C:\Users\castl\Downloads\Documents\KAMPUS\SEM 4\UAS\PemroLanjut\TrackingObat\TrackingObat\bin\x86\Debug\System.Data.SQLite.xml
+C:\Users\castl\Downloads\Documents\KAMPUS\SEM 4\UAS\PemroLanjut\TrackingObat\TrackingObat\obj\x86\Debug\TrackingObat.csproj.AssemblyReference.cache
+C:\Users\castl\Downloads\Documents\KAMPUS\SEM 4\UAS\PemroLanjut\TrackingObat\TrackingObat\obj\x86\Debug\TrackingObat.csproj.ResolveComReference.cache
+C:\Users\castl\Downloads\Documents\KAMPUS\SEM 4\UAS\PemroLanjut\TrackingObat\TrackingObat\obj\x86\Debug\TrackingObat.FormBentukSediaan.resources
+C:\Users\castl\Downloads\Documents\KAMPUS\SEM 4\UAS\PemroLanjut\TrackingObat\TrackingObat\obj\x86\Debug\TrackingObat.FormCekStok.resources
+C:\Users\castl\Downloads\Documents\KAMPUS\SEM 4\UAS\PemroLanjut\TrackingObat\TrackingObat\obj\x86\Debug\TrackingObat.FormEditObat.resources
+C:\Users\castl\Downloads\Documents\KAMPUS\SEM 4\UAS\PemroLanjut\TrackingObat\TrackingObat\obj\x86\Debug\TrackingObat.FormGolonganObat.resources
+C:\Users\castl\Downloads\Documents\KAMPUS\SEM 4\UAS\PemroLanjut\TrackingObat\TrackingObat\obj\x86\Debug\TrackingObat.FormInputObat.resources
+C:\Users\castl\Downloads\Documents\KAMPUS\SEM 4\UAS\PemroLanjut\TrackingObat\TrackingObat\obj\x86\Debug\TrackingObat.FormJenisObat.resources
+C:\Users\castl\Downloads\Documents\KAMPUS\SEM 4\UAS\PemroLanjut\TrackingObat\TrackingObat\obj\x86\Debug\TrackingObat.FormLogin.resources
+C:\Users\castl\Downloads\Documents\KAMPUS\SEM 4\UAS\PemroLanjut\TrackingObat\TrackingObat\obj\x86\Debug\TrackingObat.FormMenuUtama.resources
+C:\Users\castl\Downloads\Documents\KAMPUS\SEM 4\UAS\PemroLanjut\TrackingObat\TrackingObat\obj\x86\Debug\TrackingObat.FormUser.resources
+C:\Users\castl\Downloads\Documents\KAMPUS\SEM 4\UAS\PemroLanjut\TrackingObat\TrackingObat\obj\x86\Debug\TrackingObat.Properties.Resources.resources
+C:\Users\castl\Downloads\Documents\KAMPUS\SEM 4\UAS\PemroLanjut\TrackingObat\TrackingObat\obj\x86\Debug\TrackingObat.csproj.GenerateResource.cache
+C:\Users\castl\Downloads\Documents\KAMPUS\SEM 4\UAS\PemroLanjut\TrackingObat\TrackingObat\obj\x86\Debug\TrackingObat.csproj.CoreCompileInputs.cache
+C:\Users\castl\Downloads\Documents\KAMPUS\SEM 4\UAS\PemroLanjut\TrackingObat\TrackingObat\obj\x86\Debug\Tracking.D69ECDEB.Up2Date
+C:\Users\castl\Downloads\Documents\KAMPUS\SEM 4\UAS\PemroLanjut\TrackingObat\TrackingObat\obj\x86\Debug\TrackingObat.exe
+C:\Users\castl\Downloads\Documents\KAMPUS\SEM 4\UAS\PemroLanjut\TrackingObat\TrackingObat\obj\x86\Debug\TrackingObat.pdb

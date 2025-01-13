@@ -1,0 +1,316 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\castl\\Downloads\\Documents\\KAMPUS\\SEM 4\\UAS\\PemroLanjut\\TrackingObat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD11EC75-C97A-4CF5-911C-CFF475BE2AE4}|TrackingObat\\TrackingObat.csproj|c:\\users\\castl\\downloads\\documents\\kampus\\sem 4\\uas\\pemrolanjut\\trackingobat\\trackingobat\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BD11EC75-C97A-4CF5-911C-CFF475BE2AE4}|TrackingObat\\TrackingObat.csproj|solutionrelative:trackingobat\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD11EC75-C97A-4CF5-911C-CFF475BE2AE4}|TrackingObat\\TrackingObat.csproj|C:\\Users\\castl\\Downloads\\Documents\\KAMPUS\\SEM 4\\UAS\\PemroLanjut\\TrackingObat\\trackingobat\\formeditobat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BD11EC75-C97A-4CF5-911C-CFF475BE2AE4}|TrackingObat\\TrackingObat.csproj|solutionrelative:trackingobat\\formeditobat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD11EC75-C97A-4CF5-911C-CFF475BE2AE4}|TrackingObat\\TrackingObat.csproj|C:\\Users\\castl\\Downloads\\Documents\\KAMPUS\\SEM 4\\UAS\\PemroLanjut\\TrackingObat\\trackingobat\\formgolonganobat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BD11EC75-C97A-4CF5-911C-CFF475BE2AE4}|TrackingObat\\TrackingObat.csproj|solutionrelative:trackingobat\\formgolonganobat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD11EC75-C97A-4CF5-911C-CFF475BE2AE4}|TrackingObat\\TrackingObat.csproj|C:\\Users\\castl\\Downloads\\Documents\\KAMPUS\\SEM 4\\UAS\\PemroLanjut\\TrackingObat\\trackingobat\\forminputobat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BD11EC75-C97A-4CF5-911C-CFF475BE2AE4}|TrackingObat\\TrackingObat.csproj|solutionrelative:trackingobat\\forminputobat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD11EC75-C97A-4CF5-911C-CFF475BE2AE4}|TrackingObat\\TrackingObat.csproj|C:\\Users\\castl\\Downloads\\Documents\\KAMPUS\\SEM 4\\UAS\\PemroLanjut\\TrackingObat\\trackingobat\\formjenisobat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BD11EC75-C97A-4CF5-911C-CFF475BE2AE4}|TrackingObat\\TrackingObat.csproj|solutionrelative:trackingobat\\formjenisobat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD11EC75-C97A-4CF5-911C-CFF475BE2AE4}|TrackingObat\\TrackingObat.csproj|C:\\Users\\castl\\Downloads\\Documents\\KAMPUS\\SEM 4\\UAS\\PemroLanjut\\TrackingObat\\trackingobat\\formmenuutama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BD11EC75-C97A-4CF5-911C-CFF475BE2AE4}|TrackingObat\\TrackingObat.csproj|solutionrelative:trackingobat\\formmenuutama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD11EC75-C97A-4CF5-911C-CFF475BE2AE4}|TrackingObat\\TrackingObat.csproj|C:\\Users\\castl\\Downloads\\Documents\\KAMPUS\\SEM 4\\UAS\\PemroLanjut\\TrackingObat\\trackingobat\\formuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BD11EC75-C97A-4CF5-911C-CFF475BE2AE4}|TrackingObat\\TrackingObat.csproj|solutionrelative:trackingobat\\formuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD11EC75-C97A-4CF5-911C-CFF475BE2AE4}|TrackingObat\\TrackingObat.csproj|C:\\Users\\castl\\Downloads\\Documents\\KAMPUS\\SEM 4\\UAS\\PemroLanjut\\TrackingObat\\trackingobat\\formcekstok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BD11EC75-C97A-4CF5-911C-CFF475BE2AE4}|TrackingObat\\TrackingObat.csproj|solutionrelative:trackingobat\\formcekstok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD11EC75-C97A-4CF5-911C-CFF475BE2AE4}|TrackingObat\\TrackingObat.csproj|C:\\Users\\castl\\Downloads\\Documents\\KAMPUS\\SEM 4\\UAS\\PemroLanjut\\TrackingObat\\trackingobat\\formbentuksediaan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BD11EC75-C97A-4CF5-911C-CFF475BE2AE4}|TrackingObat\\TrackingObat.csproj|solutionrelative:trackingobat\\formbentuksediaan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD11EC75-C97A-4CF5-911C-CFF475BE2AE4}|TrackingObat\\TrackingObat.csproj|C:\\Users\\castl\\Downloads\\Documents\\KAMPUS\\SEM 4\\UAS\\PemroLanjut\\TrackingObat\\trackingobat\\formbentuksediaan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD11EC75-C97A-4CF5-911C-CFF475BE2AE4}|TrackingObat\\TrackingObat.csproj|solutionrelative:trackingobat\\formbentuksediaan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD11EC75-C97A-4CF5-911C-CFF475BE2AE4}|TrackingObat\\TrackingObat.csproj|C:\\Users\\castl\\Downloads\\Documents\\KAMPUS\\SEM 4\\UAS\\PemroLanjut\\TrackingObat\\trackingobat\\formuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD11EC75-C97A-4CF5-911C-CFF475BE2AE4}|TrackingObat\\TrackingObat.csproj|solutionrelative:trackingobat\\formuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD11EC75-C97A-4CF5-911C-CFF475BE2AE4}|TrackingObat\\TrackingObat.csproj|C:\\Users\\castl\\Downloads\\Documents\\KAMPUS\\SEM 4\\UAS\\PemroLanjut\\TrackingObat\\trackingobat\\formmenuutama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD11EC75-C97A-4CF5-911C-CFF475BE2AE4}|TrackingObat\\TrackingObat.csproj|solutionrelative:trackingobat\\formmenuutama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD11EC75-C97A-4CF5-911C-CFF475BE2AE4}|TrackingObat\\TrackingObat.csproj|C:\\Users\\castl\\Downloads\\Documents\\KAMPUS\\SEM 4\\UAS\\PemroLanjut\\TrackingObat\\trackingobat\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD11EC75-C97A-4CF5-911C-CFF475BE2AE4}|TrackingObat\\TrackingObat.csproj|solutionrelative:trackingobat\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD11EC75-C97A-4CF5-911C-CFF475BE2AE4}|TrackingObat\\TrackingObat.csproj|C:\\Users\\castl\\Downloads\\Documents\\KAMPUS\\SEM 4\\UAS\\PemroLanjut\\TrackingObat\\trackingobat\\formjenisobat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD11EC75-C97A-4CF5-911C-CFF475BE2AE4}|TrackingObat\\TrackingObat.csproj|solutionrelative:trackingobat\\formjenisobat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD11EC75-C97A-4CF5-911C-CFF475BE2AE4}|TrackingObat\\TrackingObat.csproj|C:\\Users\\castl\\Downloads\\Documents\\KAMPUS\\SEM 4\\UAS\\PemroLanjut\\TrackingObat\\trackingobat\\forminputobat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD11EC75-C97A-4CF5-911C-CFF475BE2AE4}|TrackingObat\\TrackingObat.csproj|solutionrelative:trackingobat\\forminputobat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD11EC75-C97A-4CF5-911C-CFF475BE2AE4}|TrackingObat\\TrackingObat.csproj|C:\\Users\\castl\\Downloads\\Documents\\KAMPUS\\SEM 4\\UAS\\PemroLanjut\\TrackingObat\\trackingobat\\formgolonganobat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD11EC75-C97A-4CF5-911C-CFF475BE2AE4}|TrackingObat\\TrackingObat.csproj|solutionrelative:trackingobat\\formgolonganobat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD11EC75-C97A-4CF5-911C-CFF475BE2AE4}|TrackingObat\\TrackingObat.csproj|C:\\Users\\castl\\Downloads\\Documents\\KAMPUS\\SEM 4\\UAS\\PemroLanjut\\TrackingObat\\trackingobat\\formcekstok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD11EC75-C97A-4CF5-911C-CFF475BE2AE4}|TrackingObat\\TrackingObat.csproj|solutionrelative:trackingobat\\formcekstok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD11EC75-C97A-4CF5-911C-CFF475BE2AE4}|TrackingObat\\TrackingObat.csproj|C:\\Users\\castl\\Downloads\\Documents\\KAMPUS\\SEM 4\\UAS\\PemroLanjut\\TrackingObat\\trackingobat\\koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD11EC75-C97A-4CF5-911C-CFF475BE2AE4}|TrackingObat\\TrackingObat.csproj|solutionrelative:trackingobat\\koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD11EC75-C97A-4CF5-911C-CFF475BE2AE4}|TrackingObat\\TrackingObat.csproj|C:\\Users\\castl\\Downloads\\Documents\\KAMPUS\\SEM 4\\UAS\\PemroLanjut\\TrackingObat\\trackingobat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD11EC75-C97A-4CF5-911C-CFF475BE2AE4}|TrackingObat\\TrackingObat.csproj|solutionrelative:trackingobat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormJenisObat.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\castl\\Downloads\\Documents\\KAMPUS\\SEM 4\\UAS\\PemroLanjut\\TrackingObat\\TrackingObat\\FormJenisObat.cs",
+              "RelativeDocumentMoniker": "TrackingObat\\FormJenisObat.cs",
+              "ToolTip": "C:\\Users\\castl\\Downloads\\Documents\\KAMPUS\\SEM 4\\UAS\\PemroLanjut\\TrackingObat\\TrackingObat\\FormJenisObat.cs [Design]",
+              "RelativeToolTip": "TrackingObat\\FormJenisObat.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T16:25:03.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormInputObat.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\castl\\Downloads\\Documents\\KAMPUS\\SEM 4\\UAS\\PemroLanjut\\TrackingObat\\TrackingObat\\FormInputObat.cs",
+              "RelativeDocumentMoniker": "TrackingObat\\FormInputObat.cs",
+              "ToolTip": "C:\\Users\\castl\\Downloads\\Documents\\KAMPUS\\SEM 4\\UAS\\PemroLanjut\\TrackingObat\\TrackingObat\\FormInputObat.cs [Design]",
+              "RelativeToolTip": "TrackingObat\\FormInputObat.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T16:25:01.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormGolonganObat.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\castl\\Downloads\\Documents\\KAMPUS\\SEM 4\\UAS\\PemroLanjut\\TrackingObat\\TrackingObat\\FormGolonganObat.cs",
+              "RelativeDocumentMoniker": "TrackingObat\\FormGolonganObat.cs",
+              "ToolTip": "C:\\Users\\castl\\Downloads\\Documents\\KAMPUS\\SEM 4\\UAS\\PemroLanjut\\TrackingObat\\TrackingObat\\FormGolonganObat.cs [Design]",
+              "RelativeToolTip": "TrackingObat\\FormGolonganObat.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T16:25:01.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormEditObat.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\castl\\Downloads\\Documents\\KAMPUS\\SEM 4\\UAS\\PemroLanjut\\TrackingObat\\TrackingObat\\FormEditObat.cs",
+              "RelativeDocumentMoniker": "TrackingObat\\FormEditObat.cs",
+              "ToolTip": "C:\\Users\\castl\\Downloads\\Documents\\KAMPUS\\SEM 4\\UAS\\PemroLanjut\\TrackingObat\\TrackingObat\\FormEditObat.cs [Design]",
+              "RelativeToolTip": "TrackingObat\\FormEditObat.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T16:25:00.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\castl\\Downloads\\Documents\\KAMPUS\\SEM 4\\UAS\\PemroLanjut\\TrackingObat\\TrackingObat\\FormLogin.cs",
+              "RelativeDocumentMoniker": "TrackingObat\\FormLogin.cs",
+              "ToolTip": "C:\\Users\\castl\\Downloads\\Documents\\KAMPUS\\SEM 4\\UAS\\PemroLanjut\\TrackingObat\\TrackingObat\\FormLogin.cs [Design]",
+              "RelativeToolTip": "TrackingObat\\FormLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T16:25:04.087Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormMenuUtama.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\castl\\Downloads\\Documents\\KAMPUS\\SEM 4\\UAS\\PemroLanjut\\TrackingObat\\TrackingObat\\FormMenuUtama.cs",
+              "RelativeDocumentMoniker": "TrackingObat\\FormMenuUtama.cs",
+              "ToolTip": "C:\\Users\\castl\\Downloads\\Documents\\KAMPUS\\SEM 4\\UAS\\PemroLanjut\\TrackingObat\\TrackingObat\\FormMenuUtama.cs [Design]",
+              "RelativeToolTip": "TrackingObat\\FormMenuUtama.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T16:25:05.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormUser.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\castl\\Downloads\\Documents\\KAMPUS\\SEM 4\\UAS\\PemroLanjut\\TrackingObat\\TrackingObat\\FormUser.cs",
+              "RelativeDocumentMoniker": "TrackingObat\\FormUser.cs",
+              "ToolTip": "C:\\Users\\castl\\Downloads\\Documents\\KAMPUS\\SEM 4\\UAS\\PemroLanjut\\TrackingObat\\TrackingObat\\FormUser.cs [Design]",
+              "RelativeToolTip": "TrackingObat\\FormUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T16:25:07.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormCekStok.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\castl\\Downloads\\Documents\\KAMPUS\\SEM 4\\UAS\\PemroLanjut\\TrackingObat\\TrackingObat\\FormCekStok.cs",
+              "RelativeDocumentMoniker": "TrackingObat\\FormCekStok.cs",
+              "ToolTip": "C:\\Users\\castl\\Downloads\\Documents\\KAMPUS\\SEM 4\\UAS\\PemroLanjut\\TrackingObat\\TrackingObat\\FormCekStok.cs [Design]",
+              "RelativeToolTip": "TrackingObat\\FormCekStok.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T16:24:59.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormBentukSediaan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\castl\\Downloads\\Documents\\KAMPUS\\SEM 4\\UAS\\PemroLanjut\\TrackingObat\\TrackingObat\\FormBentukSediaan.cs",
+              "RelativeDocumentMoniker": "TrackingObat\\FormBentukSediaan.cs",
+              "ToolTip": "C:\\Users\\castl\\Downloads\\Documents\\KAMPUS\\SEM 4\\UAS\\PemroLanjut\\TrackingObat\\TrackingObat\\FormBentukSediaan.cs [Design]",
+              "RelativeToolTip": "TrackingObat\\FormBentukSediaan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T16:24:56.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormUser.cs",
+              "DocumentMoniker": "C:\\Users\\castl\\Downloads\\Documents\\KAMPUS\\SEM 4\\UAS\\PemroLanjut\\TrackingObat\\TrackingObat\\FormUser.cs",
+              "RelativeDocumentMoniker": "TrackingObat\\FormUser.cs",
+              "ToolTip": "C:\\Users\\castl\\Downloads\\Documents\\KAMPUS\\SEM 4\\UAS\\PemroLanjut\\TrackingObat\\TrackingObat\\FormUser.cs",
+              "RelativeToolTip": "TrackingObat\\FormUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T02:40:59.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormMenuUtama.cs",
+              "DocumentMoniker": "C:\\Users\\castl\\Downloads\\Documents\\KAMPUS\\SEM 4\\UAS\\PemroLanjut\\TrackingObat\\TrackingObat\\FormMenuUtama.cs",
+              "RelativeDocumentMoniker": "TrackingObat\\FormMenuUtama.cs",
+              "ToolTip": "C:\\Users\\castl\\Downloads\\Documents\\KAMPUS\\SEM 4\\UAS\\PemroLanjut\\TrackingObat\\TrackingObat\\FormMenuUtama.cs",
+              "RelativeToolTip": "TrackingObat\\FormMenuUtama.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T02:40:57.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormLogin.cs",
+              "DocumentMoniker": "C:\\Users\\castl\\Downloads\\Documents\\KAMPUS\\SEM 4\\UAS\\PemroLanjut\\TrackingObat\\TrackingObat\\FormLogin.cs",
+              "RelativeDocumentMoniker": "TrackingObat\\FormLogin.cs",
+              "ToolTip": "C:\\Users\\castl\\Downloads\\Documents\\KAMPUS\\SEM 4\\UAS\\PemroLanjut\\TrackingObat\\TrackingObat\\FormLogin.cs*",
+              "RelativeToolTip": "TrackingObat\\FormLogin.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T02:40:55.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormJenisObat.cs",
+              "DocumentMoniker": "C:\\Users\\castl\\Downloads\\Documents\\KAMPUS\\SEM 4\\UAS\\PemroLanjut\\TrackingObat\\TrackingObat\\FormJenisObat.cs",
+              "RelativeDocumentMoniker": "TrackingObat\\FormJenisObat.cs",
+              "ToolTip": "C:\\Users\\castl\\Downloads\\Documents\\KAMPUS\\SEM 4\\UAS\\PemroLanjut\\TrackingObat\\TrackingObat\\FormJenisObat.cs",
+              "RelativeToolTip": "TrackingObat\\FormJenisObat.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowNEAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T02:24:48.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormInputObat.cs",
+              "DocumentMoniker": "C:\\Users\\castl\\Downloads\\Documents\\KAMPUS\\SEM 4\\UAS\\PemroLanjut\\TrackingObat\\TrackingObat\\FormInputObat.cs",
+              "RelativeDocumentMoniker": "TrackingObat\\FormInputObat.cs",
+              "ToolTip": "C:\\Users\\castl\\Downloads\\Documents\\KAMPUS\\SEM 4\\UAS\\PemroLanjut\\TrackingObat\\TrackingObat\\FormInputObat.cs",
+              "RelativeToolTip": "TrackingObat\\FormInputObat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T02:40:22.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormGolonganObat.cs",
+              "DocumentMoniker": "C:\\Users\\castl\\Downloads\\Documents\\KAMPUS\\SEM 4\\UAS\\PemroLanjut\\TrackingObat\\TrackingObat\\FormGolonganObat.cs",
+              "RelativeDocumentMoniker": "TrackingObat\\FormGolonganObat.cs",
+              "ToolTip": "C:\\Users\\castl\\Downloads\\Documents\\KAMPUS\\SEM 4\\UAS\\PemroLanjut\\TrackingObat\\TrackingObat\\FormGolonganObat.cs",
+              "RelativeToolTip": "TrackingObat\\FormGolonganObat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T02:40:19.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormCekStok.cs",
+              "DocumentMoniker": "C:\\Users\\castl\\Downloads\\Documents\\KAMPUS\\SEM 4\\UAS\\PemroLanjut\\TrackingObat\\TrackingObat\\FormCekStok.cs",
+              "RelativeDocumentMoniker": "TrackingObat\\FormCekStok.cs",
+              "ToolTip": "C:\\Users\\castl\\Downloads\\Documents\\KAMPUS\\SEM 4\\UAS\\PemroLanjut\\TrackingObat\\TrackingObat\\FormCekStok.cs",
+              "RelativeToolTip": "TrackingObat\\FormCekStok.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T02:39:55.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormBentukSediaan.cs",
+              "DocumentMoniker": "C:\\Users\\castl\\Downloads\\Documents\\KAMPUS\\SEM 4\\UAS\\PemroLanjut\\TrackingObat\\TrackingObat\\FormBentukSediaan.cs",
+              "RelativeDocumentMoniker": "TrackingObat\\FormBentukSediaan.cs",
+              "ToolTip": "C:\\Users\\castl\\Downloads\\Documents\\KAMPUS\\SEM 4\\UAS\\PemroLanjut\\TrackingObat\\TrackingObat\\FormBentukSediaan.cs",
+              "RelativeToolTip": "TrackingObat\\FormBentukSediaan.cs",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAA8wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T02:40:08.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\castl\\Downloads\\Documents\\KAMPUS\\SEM 4\\UAS\\PemroLanjut\\TrackingObat\\TrackingObat\\Program.cs",
+              "RelativeDocumentMoniker": "TrackingObat\\Program.cs",
+              "ToolTip": "C:\\Users\\castl\\Downloads\\Documents\\KAMPUS\\SEM 4\\UAS\\PemroLanjut\\TrackingObat\\TrackingObat\\Program.cs",
+              "RelativeToolTip": "TrackingObat\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T02:23:42.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Koneksi.cs",
+              "DocumentMoniker": "C:\\Users\\castl\\Downloads\\Documents\\KAMPUS\\SEM 4\\UAS\\PemroLanjut\\TrackingObat\\TrackingObat\\Koneksi.cs",
+              "RelativeDocumentMoniker": "TrackingObat\\Koneksi.cs",
+              "ToolTip": "C:\\Users\\castl\\Downloads\\Documents\\KAMPUS\\SEM 4\\UAS\\PemroLanjut\\TrackingObat\\TrackingObat\\Koneksi.cs",
+              "RelativeToolTip": "TrackingObat\\Koneksi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T02:23:40.958Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
